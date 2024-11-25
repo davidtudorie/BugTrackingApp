@@ -1,0 +1,2 @@
+# BugTrackingApp
+Proiect technologii web 
