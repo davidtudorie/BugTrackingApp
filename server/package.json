@@ -1,0 +1,28 @@
+{
+  "name": "bug-tracker",
+  "version": "1.0.0",
+  "description": "tech web project for bug-tracking",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "run",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidtudorie/BugTrackingApp.git"
+  },
+  "keywords": [
+    "bugTrackingApp"
+  ],
+  "author": "David, Robert, Adi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidtudorie/BugTrackingApp/issues"
+  },
+  "homepage": "https://github.com/davidtudorie/BugTrackingApp#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "node": "^23.5.0"
+  }
+}
